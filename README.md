@@ -1,8 +1,7 @@
 # Text Mining
 
-Tools: </br>
-  NLTK is responsible for feature extraction and feature selection
-  Sk-learn is used to classiffy, evaluate classifcetion resultts, and process classifiction and etc. </br>
+Reference: </br>
+  Topic_model_demo: https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/ </br>
   
   
  
